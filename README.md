@@ -20,6 +20,8 @@ pkg install python2
 
 pkg install python3
 
+apt install pip
+
 git clone https://github.com/Yousuf9963/IP-Shower.git
 
 cd IP-Shower
