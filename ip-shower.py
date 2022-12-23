@@ -76,7 +76,7 @@ print("")
 print (Fore.BLUE+"""
 OPTIONS:
 
-[1] FOR GET Your LOCAL IP Address
+[1] GET Your LOCAL IP Address
 
 [2] GET Your PUBLIC IP Address {Global IP}""")
 print("")
