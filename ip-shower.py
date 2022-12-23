@@ -90,7 +90,7 @@ if get == "1":
         hostname = socket.gethostname()
 
         ip_local = socket.gethostbyname(hostname)
-        print (Fore.RED+"PLEASE WAIT ...")
+        print (Fore.RED+"PLEASE WAIT THANK YOU...")
         time.sleep(3.0)
         print (Fore.GREEN+"Your Local IP is:",Fore.RED + ip_local)
 #.....$.$.$.$..$_..$.$
