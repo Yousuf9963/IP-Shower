@@ -28,5 +28,7 @@ git clone https://github.com/Yousuf9963/IP-Shower.git
 
 cd IP-Shower
 
-python3 
+python3 ip-shower.py
+
+# Please Follow me Thank you...
 
