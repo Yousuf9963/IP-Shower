@@ -51,6 +51,28 @@ _                 ____  _   _  _____        _______ ____
   
 
 """)
+
+
+print("[+] Tool Namee:IP-SHOWER")
+
+print("[+] Author:Yousuf Shafi'i Muhammad. Junior Programmer")
+
+print("[+] Version:1.0")
+
+print("[+] Team:Junior Programmers")
+
+print("[+] Github:https://github.com/Yousuf9963/phone-num-info")
+
+print("[+] Follow me on Github: https://github.com/Yousuf9963")
+
+print("[-] Website muhammadabdirahman.wixsite.com/yousuf9963blog.")
+
+print("[!] legal disclaimer: Usage of this Program for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.")
+
+print("[+] I hope for you good future and i am willing that you will come high effort.")
+
+print("")
+
 print (Fore.BLUE+"""
 OPTIONS:
 
