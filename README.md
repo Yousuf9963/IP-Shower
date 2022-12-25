@@ -26,6 +26,10 @@ git clone https://github.com/Yousuf9963/IP-Shower.git
 
 cd IP-Shower
 
+chmod 777 *py
+
+pip install --upgrade pip
+
 python3 ip-shower.py
 
 # Please Follow me Thank you...
