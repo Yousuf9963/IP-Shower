@@ -30,4 +30,6 @@ python3 ip-shower.py
 
 # Please Follow me Thank you...
 
+# Donation
 
+If you want to Donate click here Thamk you.: https://www.buymeacoffee.com/junioprogrammer
