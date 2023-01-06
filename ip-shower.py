@@ -53,7 +53,7 @@ _                 ____  _   _  _____        _______ ____
 """)
 
 
-print("[+] Tool Namee:IP-SHOWER")
+print("[+] Tool Name:IP-SHOWER")
 
 print("[+] Author:Yousuf Shafi'i Muhammad. Junior Programmer")
 
